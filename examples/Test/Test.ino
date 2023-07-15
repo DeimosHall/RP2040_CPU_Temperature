@@ -1,5 +1,5 @@
 /*
- * Test sketch for the RP2040 CPU temperature sensor library.
+ * Test sketch for the RP2040 CPU temperature sensor library
  * Author: Francisco Torres (deimoshall.dev)
  * Date: July 2023
  * License: MIT

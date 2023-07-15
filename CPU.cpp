@@ -1,8 +1,13 @@
+/*
+ * RP2040 CPU temperature sensor library
+ * Author: Francisco Torres (deimoshall.dev)
+ * Date: July 2023
+ * License: MIT
+ * Repository: https://github.com/DeimosHall/RP2040_Temperature.git
+*/
+
 #include "Arduino.h"
 #include "CPU.h"
-
-CPU::CPU() {
-}
 
 void CPU::begin() {
   adc_init();
