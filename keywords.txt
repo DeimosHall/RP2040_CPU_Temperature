@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For RP2040_Temperature
+# Syntax Coloring Map For Raspberry Pi Pico CPU Temperature
 #######################################
 
 #######################################

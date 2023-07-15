@@ -3,7 +3,7 @@
  * Author: Francisco Torres (deimoshall.dev)
  * Date: July 2023
  * License: MIT
- * Repository: https://github.com/DeimosHall/RP2040_Temperature.git
+ * Repository: https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 */
 
 #include <CPU.h>  // Include the library to use the CPU temperature sensor

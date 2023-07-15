@@ -1,9 +1,9 @@
 /*
- * RP2040 CPU temperature sensor library
+ * Raspberry Pi Pico CPU Temperature sensor library
  * Author: Francisco Torres (deimoshall.dev)
  * Date: July 2023
  * License: MIT
- * Repository: https://github.com/DeimosHall/RP2040_Temperature.git
+ * Repository: https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 */
 
 #ifndef CPU_h
