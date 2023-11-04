@@ -1,5 +1,7 @@
 BOARD_TAG = arduino:mbed_rp2040:pico
-MONITOR_PORT = /dev/cu.usbmodem1401
+# BOARD_TAG = rp2040:rp2040:rpipico
+# BOARD_TAG = rp2040:rp2040:rpipicow
+MONITOR_PORT = /dev/cu.usbmodem112301
 
 compile:
 	arduino-cli compile --fqbn $(BOARD_TAG)
